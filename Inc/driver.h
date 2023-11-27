@@ -106,6 +106,8 @@
   #include "btt_skr_mini_e3_2.0_map.h"
 #elif defined(BOARD_BTT_SKR_MINI_E3_V20_ALT2)
   #include "btt_skr_mini_e3_2.0_alt2_map.h"
+#elif defined(BOARD_CREALITY_4.2.7)
+  #include "creality_4.2.7_map.h"
 #elif defined(BOARD_MACH3_BOB)
   #include "mach3_bob_map.h"
 #elif defined(BOARD_MY_MACHINE)
